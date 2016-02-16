@@ -1,6 +1,6 @@
 {
   "name": "cmsis-core-nuvoton",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "CMSIS Core Implementation for Nuvoton MCUs",
   "private": true,
   "keywords": [
@@ -21,7 +21,7 @@
       "cmsis-core-nuc472": "^1.0.0"
     },
     "m453": {
-      "cmsis-core-m453": "^1.0.0"
+      "cmsis-core-m451": "^1.0.0"
     }
   }
 }
