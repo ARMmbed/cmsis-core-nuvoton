@@ -2,7 +2,6 @@
   "name": "cmsis-core-nuvoton",
   "version": "1.1.1",
   "description": "CMSIS Core Implementation for Nuvoton MCUs",
-  "private": true,
   "keywords": [
     "cmsis",
     "mbed",
